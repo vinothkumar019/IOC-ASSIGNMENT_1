@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>simple_pubsub</name>
+  <version>0.0.1</version>
+  <description>Simple ROS2 Publisher Subscriber Example</description>
+  <maintainer email="vinoth@example.com">Vinoth Kumar</maintainer>
+  <license>MIT</license>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+</package>
